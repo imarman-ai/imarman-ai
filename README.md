@@ -1,16 +1,32 @@
 ## Hi there 👋
 
 <!--
-**imarman-ai/imarman-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I'm Arman Ansari 👋
 
-Here are some ideas to get you started:
+Aspiring AI Developer | BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA graduate learning Python and building my programming skills step by step.
+
+My goal is to become an AI Developer and create practical applications powered by Artificial Intelligence.
+
+🌱 Currently Learning
+
+- Python Programming
+- Programming Logic
+- Git & GitHub
+- AI and Machine Learning Fundamentals
+
+🚀 Projects
+
+- Python Practice Programs
+- Sales & Inventory Management Dashboard (Planned)
+- AI-Powered Applications (Future Goal)
+
+🎯 My Mission
+
+To build useful AI applications and grow as an AI Developer through continuous learning and hands-on projects.
+
+🤝 Connect With Me
+
+- GitHub: "imarman-ai" (https://github.com/imarman-ai)
+- LinkedIn: "Arman Ansari" (https://www.linkedin.com/in/armanansari-analytics/)
