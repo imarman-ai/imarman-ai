@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Hi, I'm Arman Ansari 👋
+I'm Arman Ansari 👋
 
 Aspiring AI Developer | BCA Graduate
 
